@@ -1,8 +1,8 @@
 ### Hello!!😄
 
-### I'm JinSeok Jang, :seedling:Junior🌱 Web Developer.
+### I'm JinSeok Jang, :seedling:Junior Web Developer.
 
-### Thank you for watching my Github
+### Thank you for watching my Github! :thumbsup::laughing::thumbsup:
 
 <!--
 **JinseokJang91/JinSeokJang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
