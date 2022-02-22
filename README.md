@@ -1,6 +1,6 @@
 ### Hello!!😄
 
-### I'm JinSeok Jang, :seedling:Junior Web Developer.
+### :seedling: I'm JinSeok Jang, Junior Web Developer.
 
 ### Thank you for watching my Github! :thumbsup::thumbsup::laughing:
 
