@@ -1,6 +1,6 @@
 ### Hello!!😄
 
-### :seedling: I'm JinSeok Jang, Junior Web Developer.
+### :seedling: I'm JinSeok Jang, Developer.
 
 ### Thank you for watching my Github! :green_heart::heart::yellow_heart:
 
