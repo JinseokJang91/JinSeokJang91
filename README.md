@@ -1,8 +1,4 @@
-### Hello!!😄
-
-### :seedling: I'm JinSeok Jang.
-
-### Thank you for watching my Github! :green_heart::heart::yellow_heart:
+### Welcome to my github!!😄
 
 <!--
 **JinseokJang91/JinSeokJang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
